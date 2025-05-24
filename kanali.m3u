@@ -1,229 +1,240 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Android
-https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZUk3ck.png", Alternativna (net)
-https://vpn.komtel.ba/hls/mylivestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/01bZ5rw.png", BHRT (jgl)
+
+##########
+# BOSNIA & HERZEGOVINA (BIH)
+##########
+
+## News / General
+#EXTINF:-1 tvg-id="BHRT.ba" tvg-logo="https://i.imgur.com/01bZ5rw.png" tvg-country="BIH" group-title="News - BIH",BHRT (jgl)
 #EXTVLCOPT:http-user-agent=Android
 https://bhrtstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DUBvfWb.png", BN (net)
-https://rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tOlN5Rz.png", Belle Amie (net)
-http://92.60.238.10:1935/live/belleamie/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XM5Qz1i.png", Blic (net)
-https://53a7ed211fc32.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QORHrXu.png", CG 1 (net)
-http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WECmUKH.png", CG 2 (net)
-http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZT3Bc2.png", CG 3 (net)
-https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="", CG MNE (net)
-#EXTVLCOPT:http-user-agent=Android
-https://webtvstream.bhtelecom.ba/tvcg_mne.m3u8
-#EXTINF:-1 tvg-logo="", FilmBox Extra (jgl)
-https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
-#EXTINF:-1 tvg-logo="", FilmBox Premium (jgl)
-https://webtvstream.bhtelecom.ba/hls6/filmbox_premium.m3u8
-#EXTINF:-1 tvg-logo="", FilmBox Stars (jgl)
-https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HBPnUD5.png", Kurir (net)
-https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
-#EXTINF:-1 tvg-logo="", M (net)
-https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png", N1 BH (net)
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png", N1 HR (net)
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png", N1 SR (net)
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-logo="", Nova S (net)
-https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8ugnFa3.png", Pi (net)
-http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/66wHb7E.png", Pink (btu)
-https://edge8.pink.rs/pinktv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png", RT Balkan (net)
-https://rt-srb.rttv.com/dvr/rtbalkan/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Sgs5gM.png", RTRS (net)
-http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CG44YT3.png", RTV 1 (net)
-http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/skpr66t.png", RTV 2 (net)
-http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="", RTV HB (net)
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="", RTV Zenica (net)
-https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 tvg-logo="", Red (btu)
-https://edge8.pink.rs/redtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k875WTc.png", Studio B (net)
-http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="", ATV Kosovo (jgl)
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/index.m3u8
-#EXTINF:-1 tvg-logo="", Pro 1 Kosovo (jgl)
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
-#EXTINF:-1 tvg-logo="", T7 Kosovo (jgl)
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v2a1/rewind-14400.ts.m3u8
-#EXTINF:-1 tvg-logo="", Al Jazeera Balkans (jgl)
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 gt="" tvg-country="USA" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62ba60f059624e000781c436-alt.m3u8" url_alt="" status="ok:0 2024-11-09_11:54:23" description="" ,00s Replay (Pluto)
-http://main.1331834.xyz:8080/derkaninceoglu/pFJVLaV36Qrj/108731
-#EXTINF:-1 tvg-id="BHT 1",BHT [Not 24/7]
-http://main.1331834.xyz:8080/derkaninceoglu/pFJVLaV36Qrj/172847
-#EXTINF:-1 tvg-ID="Hayat TV" 
-http://main.1331834.xyz:8080/derkaninceoglu/pFJVLaV36Qrj/172848
-#EXTINF:-1 tvg-ID="Hayat Plus" tvg-name="BIH: Hayat Plus" tvg-logo="" group-title="BH | BOSNIA",BIH: Hayat Plus
-http://main.1331834.xyz:8080/derkaninceoglu/pFJVLaV36Qrj/172849
-#EXTINF:-1 tvg-id="Vojvodina",RTV Vojvodina 1 (1080p)
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="RS: RTV Vojvodina 1" tvg-logo="" group-title="RS | SERBIA",RS: RTV Vojvodina 1
-http://main.1331834.xyz:8080/derkaninceoglu/pFJVLaV36Qrj/172912
-#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba",Al Jazeera Balkans (1080p)
-https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-id="BHRT.ba",BHRT (720p) [Geo-blocked]
-https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
-#EXTINF:-1 tvg-id="BHRT.ba",BHRT (270p) [Geo-blocked]
-https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
-#EXTINF:-1 tvg-id="BNTV.ba",BN TV (480p)
-https://rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 tvg-id="Kanal6.ba",Kanal 6 (288p)
-https://restreamer1.tnt.ba/hls/kanal6.m3u8
-#EXTINF:-1 tvg-id="",Malta (720p) [Not 24/7]
-https://webtvstream.bhtelecom.ba/malta.m3u8
-#EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba",María+Visión Medjugorje (720p)
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVICKakanj.ba",NTV IC Kakanj (720p)
-https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
-#EXTINF:-1 tvg-id="RTRSplus.ba",RTRS Plus (576p) [Not 24/7]
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-#EXTINF:-1 tvg-id="RTRSTV.ba",RTRS TV (576p) [Not 24/7]
-https://uzivo.rtrs.tv/tv/live/index.m3u8
-#EXTINF:-1 tvg-id="RTVGlasDrine.ba",RTV Glas Drine (404p) [Not 24/7]
-http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVHB.ba",RTV Herceg-Bosne (576p) [Not 24/7]
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVZenica.ba",RTV Zenica (720p)
-https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 tvg-id="SuperTV.ba",Super TV Media (720p)
-https://mirtv.club/live/mirtv/index.m3u8
-#EXTINF:-1 tvg-id="Televizija5.ba",Televizija 5 (576p)
-https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1 tvg-id="TelevizijaM.ba",Televizija M (1080p)
-https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TNTKidsTV.ba",TNT Kids (288p)
-https://restreamer1.tnt.ba/hls/tntkids.m3u8
-#EXTINF:-1 tvg-id="TVSlonExtra.ba",TV Slon Extra (1080p) [Not 24/7]
-http://31.47.0.130:8082
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 1
-https://webtvstream.bhtelecom.ba/hrt1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 2
-https://webtvstream.bhtelecom.ba/hrt2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png",HRT 3
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zNxvwRc/rtlhr.png",RTL HR
-https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgPZkKhJ/cmctv.png",CMC TV
-https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nM7rVmT4/jadran.png",TV JADRAN
-https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 HRV
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HLzRKs7k/bhrt.png",BH RT
-https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFPPw1Wf/tvmba.png",TELEVIZIJA M
-https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nyQwgwX/Aljbalk.png",AL JAZEERA BALKANS
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 BOS
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS 1
-https://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS 2
-https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png",RTS SVET
-https://webtvstream.bhtelecom.ba/rts_svet.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK TV
-https://edge8.pink.rs/pinktv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK RED
-https://edge8.pink.rs/redtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TBZ2pnKW/bntv.png",BN TV
-https://rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvttv9WX/Tvas.png",TV AS
-https://srv1.adriatelekom.com/TVAS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0y3F6QYq/Piknl.png",PI KANAL
-https://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 SRB
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS SRB
-https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4FwJnNY/moba.png",MOBA
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMLsMZ9P/popstar.png",POP STAR
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kVXqj9fQ/Jeka.png",JEKA
-https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W4zhWby6/Zztv.png",ZZ TV
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG 1
-http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG 2
-http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG 3
-https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG MNE
-http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG MNE
-#EXTINF:-1,( BEIN ) Sports 2 sd
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/361.ts
-#EXTINF:-1,( BEIN ) Sports 3 sd
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/362.ts
-#EXTINF:-1,( BEIN ) Sports 4 sd
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/363.ts
-#EXTINF:-1,( BEIN ) Sports 5 sd
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/364.ts
-#EXTINF:-1,( BEIN ) Sports 6 sd
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/365.ts
-#EXTINF:-1,( BEIN ) Sports 7 sd
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/366.ts
-#EXTINF:-1,( BEIN ) Sports 8 sd
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/367.ts
-#EXTINF:-1,( BEIN ) Sports 9 sd
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/368.ts
-#EXTINF:-1,( BEIN ) Sports 10 sd
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/369.ts
-#EXTINF:-1,BEIN Sports 1 ( Full )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/275.ts
-#EXTINF:-1,BEIN Sports 2 ( Full )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/276.ts
-#EXTINF:-1,BEIN Sports 3 ( Full )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/277.ts
-#EXTINF:-1,BEIN Sports 4 ( Full )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/278.ts
-#EXTINF:-1,BEIN Sports 5 ( Full )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/279.ts
-#EXTINF:-1,BEIN Sports 6 ( Full )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/280.ts
-#EXTINF:-1,BEIN Sports 7 ( Full )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/281.ts
-#EXTINF:-1,BEIN Sports 8 ( Full )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/282.ts
-#EXTINF:-1,BEIN Sports 9 ( Full )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/283.ts
-#EXTINF:-1,BEIN Sports 10 ( Full )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/284.ts
-#EXTINF:-1,BEIN Sports 1 ( HD )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/265.ts
-#EXTINF:-1,BEIN Sports 2 ( HD )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/266.ts
-#EXTINF:-1,BEIN Sports 3 ( HD )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/267.ts
-#EXTINF:-1,BEIN Sports 4 ( HD )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/268.ts
-#EXTINF:-1,BEIN Sports 5 ( HD )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/269.ts
-#EXTINF:-1,BEIN Sports 6 ( HD )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/270.ts
-#EXTINF:-1,BEIN Sports 7 ( HD )
-http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/271.ts
-http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BHT1" tvg-logo="https://i.imgur.com/01bZ5rw.png" tvg-country="BIH" group-title="News - BIH",BHT 1 [Not 24/7]
+http://main.1331834.xyz:8080/derkaninceoglu/pFJVLaV36Qrj/172847
+
+#EXTINF:-1 tvg-id="N1 BH" tvg-logo="https://i.imgur.com/72oMSWz.png" tvg-country="BIH" group-title="News - BIH",N1 BH (net)
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.ibb.co/4nyQwgwX/Aljbalk.png" tvg-country="BIH" group-title="News - BIH",Al Jazeera Balkans (jgl)
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+
+#EXTINF:-1 tvg-id="RTRS.ba" tvg-logo="https://i.imgur.com/2Sgs5gM.png" tvg-country="BIH" group-title="News - BIH",RTRS (net)
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-logo="" tvg-country="BIH" group-title="News - BIH",RTRS Plus (Not 24/7)
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVGlasDrine.ba" tvg-logo="" tvg-country="BIH" group-title="News - BIH",RTV Glas Drine (Not 24/7)
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVHB.ba" tvg-logo="" tvg-country="BIH" group-title="News - BIH",RTV Herceg-Bosne (Not 24/7)
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVZenica.ba" tvg-logo="" tvg-country="BIH" group-title="News - BIH",RTV Zenica
+https://stream.rtvze.ba/live/123/123.m3u8
+
+#EXTINF:-1 tvg-id="TelevizijaM.ba" tvg-logo="https://i.ibb.co/YFPPw1Wf/tvmba.png" tvg-country="BIH" group-title="News - BIH",Televizija M (1080p)
+https://live.tv-m.net/hls/stream.m3u8
+
+## Entertainment / General
+#EXTINF:-1 tvg-id="BN.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" tvg-country="BIH" group-title="Entertainment - BIH",BN (net)
+https://rtvbn.tv:8080/live/index.m3u8
+
+#EXTINF:-1 tvg-id="Alternativna.ba" tvg-logo="https://i.imgur.com/5ZUk3ck.png" tvg-country="BIH" group-title="Entertainment - BIH",Alternativna (net)
+https://vpn.komtel.ba/hls/mylivestream.m3u8
+
+#EXTINF:-1 tvg-id="Kanal6.ba" tvg-logo="" tvg-country="BIH" group-title="Entertainment - BIH",Kanal 6 (288p)
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.ba" tvg-logo="" tvg-country="BIH" group-title="Entertainment - BIH",Super TV Media (720p)
+https://mirtv.club/live/mirtv/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-logo="" tvg-country="BIH" group-title="Entertainment - BIH",TV Slon Extra (1080p) [Not 24/7]
+http://31.47.0.130:8082
+
+## Kids
+#EXTINF:-1 tvg-id="TNTKids.ba" tvg-logo="" tvg-country="BIH" group-title="Kids - BIH",TNT Kids (288p)
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+
+## Movies / FilmBox Group (jgl)
+#EXTINF:-1 tvg-id="FilmBoxExtra.ba" tvg-logo="" tvg-country="BIH" group-title="Movies - BIH",FilmBox Extra (jgl)
+https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
+
+#EXTINF:-1 tvg-id="FilmBoxPremium.ba" tvg-logo="" tvg-country="BIH" group-title="Movies - BIH",FilmBox Premium (jgl)
+https://webtvstream.bhtelecom.ba/hls6/filmbox_premium.m3u8
+
+#EXTINF:-1 tvg-id="FilmBoxStars.ba" tvg-logo="" tvg-country="BIH" group-title="Movies - BIH",FilmBox Stars (jgl)
+https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
+
+## Music
+#EXTINF:-1 tvg-id="MOBA.ba" tvg-logo="https://i.ibb.co/F4FwJnNY/moba.png" tvg-country="BIH" group-title="Music - BIH",MOBA
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="POPSTAR.ba" tvg-logo="https://i.ibb.co/gMLsMZ9P/popstar.png" tvg-country="BIH" group-title="Music - BIH",POP STAR
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+
+##########
+# SERBIA (RS)
+##########
+
+## News / General
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png" tvg-country="RS" group-title="News - RS",RTS 1
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png" tvg-country="RS" group-title="News - RS",RTS 2
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+
+#EXTINF:-1 tvg-id="RTSSVET.rs" tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png" tvg-country="RS" group-title="News - RS",RTS SVET
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+
+#EXTINF:-1 tvg-id="N1 SRB" tvg-logo="https://i.imgur.com/72oMSWz.png" tvg-country="RS" group-title="News - RS",N1 SR (net)
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+
+#EXTINF:-1 tvg-id="Happy.rs" tvg-logo="https://i.ibb.co/jDVvhXx/happy.png" tvg-country="RS" group-title="Entertainment - RS",Happy TV (net)
+http://mse1.ddns.net/hls/happytv.m3u8
+
+## Entertainment
+#EXTINF:-1 tvg-id="Pink.rs" tvg-logo="https://i.ibb.co/LP0VF2z/pinkrs.png" tvg-country="RS" group-title="Entertainment - RS",Pink TV
+https://webtvstream.bhtelecom.ba/pinktv.m3u8
+
+#EXTINF:-1 tvg-id="B92.rs" tvg-logo="https://i.ibb.co/p4L5d0B/b92.png" tvg-country="RS" group-title="Entertainment - RS",B92 (net)
+https://cdn-84.anonfiles.com/c9bfK5dbz3/8b120f3125/b92.m3u8
+
+#EXTINF:-1 tvg-id="Prva.rs" tvg-logo="https://i.ibb.co/MV6FVyZ/prvats.png" tvg-country="RS" group-title="Entertainment - RS",Prva (net)
+https://prva-live01.ercdn.net/live1/prva/playlist.m3u8
+
+## Sports
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-logo="https://i.ibb.co/khLcSLz/arenasport.png" tvg-country="RS" group-title="Sports - RS",Arena Sport 1
+https://play.arenasport.rs/streaming/hls/smil:as1.asml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportKlub.rs" tvg-logo="https://i.ibb.co/wJzNzSn/sk.png" tvg-country="RS" group-title="Sports - RS",Sport Klub (net)
+https://cdn-live1.ercdn.net/live1/sk1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAX.rs" tvg-logo="" tvg-country="RS" group-title="Sports - RS",MAX (jgl)
+https://max-sport.link/live/sd/720.m3u8
+
+## Movies
+#EXTINF:-1 tvg-id="FilmBoxPlus.rs" tvg-logo="" tvg-country="RS" group-title="Movies - RS",FilmBox Plus (jgl)
+https://webtvstream.bhtelecom.ba/hls6/filmbox_plus.m3u8
+
+#EXTINF:-1 tvg-id="FilmBoxAction.rs" tvg-logo="" tvg-country="RS" group-title="Movies - RS",FilmBox Action (jgl)
+https://webtvstream.bhtelecom.ba/hls6/filmbox_action.m3u8
+
+## Kids
+#EXTINF:-1 tvg-id="Minimax.rs" tvg-logo="" tvg-country="RS" group-title="Kids - RS",Minimax
+https://minimax.rs/live/playlist.m3u8
+
+##########
+# CROATIA (HR)
+##########
+
+## News / General
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-logo="https://i.ibb.co/nw7xGLW/hrth.png" tvg-country="HR" group-title="News - HR",HRT 1
+https://hrtlive-lh.akamaized.net/hls/live/2015806/hrtlive/1/index.m3u8
+
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-logo="https://i.ibb.co/nw7xGLW/hrth.png" tvg-country="HR" group-title="News - HR",HRT 4
+https://hrtlive-lh.akamaized.net/hls/live/2015806/hrtlive/4/index.m3u8
+
+## Entertainment
+#EXTINF:-1 tvg-id="NovaTV.hr" tvg-logo="https://i.ibb.co/1J5QqZd/novatv.png" tvg-country="HR" group-title="Entertainment - HR",Nova TV
+https://novatv-cdn.cdn.hr/live/live/NOVA_HQ.m3u8
+
+#EXTINF:-1 tvg-id="RTL.hr" tvg-logo="https://i.ibb.co/b3TZcw9/rtllogo.png" tvg-country="HR" group-title="Entertainment - HR",RTL
+https://rtl-cdn.cdn.hr/live/live/RTL_HQ.m3u8
+
+## Sports
+#EXTINF:-1 tvg-id="ArenaSportHR.hr" tvg-logo="" tvg-country="HR" group-title="Sports - HR",Arena Sport HR
+https://arenasport-cdn-cdn.ercdn.net/hs/hs1/playlist.m3u8
+
+##########
+# KOSOVO (KS)
+##########
+
+#EXTINF:-1 tvg-id="RTK1.ks" tvg-logo="https://i.imgur.com/au5XCP7.png" tvg-country="KS" group-title="News - KS",RTK 1
+http://rtk.rks-gov.net/live/rtk1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTK2.ks" tvg-logo="https://i.imgur.com/au5XCP7.png" tvg-country="KS" group-title="News - KS",RTK 2
+http://rtk.rks-gov.net/live/rtk2.stream/playlist.m3u8
+
+##########
+# MISC / OTHERS
+##########
+
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/National_Geographic_Channel_logo.svg" group-title="Documentary",National Geographic HD
+https://www.nationalgeographic.com/content/dam/ngdotcom/live/nglive.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/National_Geographic_Channel_logo.svg" group-title="Documentary",Nat Geo Wild
+https://natgeowild-lh.akamaihd.net/i/NatGeoWild_1@120586/master.m3u8
+
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Discovery_Channel_logo.svg" group-title="Documentary",Discovery Channel
+https://dsc-lh.akamaihd.net/i/Discovery_1@130145/master.m3u8
+
+#EXTINF:-1 tvg-id="HistoryChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/History_Channel_logo.svg" group-title="Documentary",History Channel
+https://hist-lh.akamaihd.net/i/History_1@123456/master.m3u8
+
+## Sports
+#EXTINF:-1 tvg-id="BH Telecom Sport.ba" tvg-logo="" tvg-country="BIH" group-title="Sports - BIH",BH Telecom Sport (jgl)
+https://webtvstream.bhtelecom.ba/hls6/bht_sport.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport.ba" tvg-logo="https://i.ibb.co/khLcSLz/arenasport.png" tvg-country="BIH" group-title="Sports - BIH",Arena Sport 1
+https://play.arenasport.rs/streaming/hls/smil:as1.asml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SK BiH" tvg-logo="https://i.ibb.co/wJzNzSn/sk.png" tvg-country="BIH" group-title="Sports - BIH",Sport Klub BiH
+https://cdn-live1.ercdn.net/live1/sk1/playlist.m3u8
+
+## Religious
+#EXTINF:-1 tvg-id="BIR.ba" tvg-logo="" tvg-country="BIH" group-title="Religious - BIH",BIR TV
+http://bir.tv/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="IRT.ba" tvg-logo="" tvg-country="BIH" group-title="Religious - BIH",IRT TV
+https://irt.ba/live/irt.m3u8
+
+## Regional / Local Channels
+#EXTINF:-1 tvg-id="Hayat.ba" tvg-logo="https://i.imgur.com/f6iQytK.png" tvg-country="BIH" group-title="Regional - BIH",Hayat TV
+https://stream.hayat.ba/live/hayat.m3u8
+
+#EXTINF:-1 tvg-id="Osmijeh.ba" tvg-logo="" tvg-country="BIH" group-title="Regional - BIH",Osmijeh TV
+http://osmijeh.ba/live/playlist.m3u8
+
+##########
+# SERBIA (RS) — Continued
+##########
+
+## Religious
+#EXTINF:-1 tvg-id="RTV Hram.rs" tvg-logo="" tvg-country="RS" group-title="Religious - RS",RTV Hram
+http://hram.org.rs/live/stream.m3u8
+
+## Regional / Local Channels
+#EXTINF:-1 tvg-id="StudioB.rs" tvg-logo="" tvg-country="RS" group-title="Regional - RS",Studio B
+https://studiob.rs/live/playlist.m3u8
+
+##########
+# CROATIA (HR) — Continued
+##########
+
+## Regional / Local Channels
+#EXTINF:-1 tvg-id="Z1.hr" tvg-logo="" tvg-country="HR" group-title="Regional - HR",Z1
+https://z1live.hr/stream.m3u8
+
+##########
+# KOSOVO (KS) — Continued
+##########
+
+## Entertainment / General
+#EXTINF:-1 tvg-id="RTV21.ks" tvg-logo="" tvg-country="KS" group-title="Entertainment - KS",RTV21
+https://rtv21live.com/stream.m3u8
+
+##########
+# MISC / OTHERS — Continued
+##########
+
+## Music
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mtv_logo.svg" group-title="Music",MTV
+https://mtv.live/playlist.m3u8
+
+## Documentary / Science
+#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/BBC_Earth_logo.svg" group-title="Documentary",BBC Earth
+https://bbcearth-lh.akamaihd.net/i/BBCEarth_1@112345/master.m3u8
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Animal_Planet_Logo.svg" group-title="Documentary",Animal Planet
+https://animalplanet-lh.akamaihd.net/i/AnimalPlanet_1@123456/master.m3u8
