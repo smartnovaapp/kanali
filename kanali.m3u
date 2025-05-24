@@ -94,5 +94,57 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG MNE
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x1cbJqN/rtcg.png",TVCG MNE
+#EXTINF:-1,( BEIN ) Sports 2 sd
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/361.ts
+#EXTINF:-1,( BEIN ) Sports 3 sd
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/362.ts
+#EXTINF:-1,( BEIN ) Sports 4 sd
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/363.ts
+#EXTINF:-1,( BEIN ) Sports 5 sd
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/364.ts
+#EXTINF:-1,( BEIN ) Sports 6 sd
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/365.ts
+#EXTINF:-1,( BEIN ) Sports 7 sd
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/366.ts
+#EXTINF:-1,( BEIN ) Sports 8 sd
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/367.ts
+#EXTINF:-1,( BEIN ) Sports 9 sd
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/368.ts
+#EXTINF:-1,( BEIN ) Sports 10 sd
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/369.ts
+#EXTINF:-1,BEIN Sports 1 ( Full )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/275.ts
+#EXTINF:-1,BEIN Sports 2 ( Full )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/276.ts
+#EXTINF:-1,BEIN Sports 3 ( Full )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/277.ts
+#EXTINF:-1,BEIN Sports 4 ( Full )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/278.ts
+#EXTINF:-1,BEIN Sports 5 ( Full )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/279.ts
+#EXTINF:-1,BEIN Sports 6 ( Full )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/280.ts
+#EXTINF:-1,BEIN Sports 7 ( Full )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/281.ts
+#EXTINF:-1,BEIN Sports 8 ( Full )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/282.ts
+#EXTINF:-1,BEIN Sports 9 ( Full )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/283.ts
+#EXTINF:-1,BEIN Sports 10 ( Full )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/284.ts
+#EXTINF:-1,BEIN Sports 1 ( HD )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/265.ts
+#EXTINF:-1,BEIN Sports 2 ( HD )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/266.ts
+#EXTINF:-1,BEIN Sports 3 ( HD )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/267.ts
+#EXTINF:-1,BEIN Sports 4 ( HD )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/268.ts
+#EXTINF:-1,BEIN Sports 5 ( HD )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/269.ts
+#EXTINF:-1,BEIN Sports 6 ( HD )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/270.ts
+#EXTINF:-1,BEIN Sports 7 ( HD )
+http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/271.ts
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
 
